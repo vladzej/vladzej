@@ -3,5 +3,5 @@
 
  　　　　 $\color{#e6b087}\textsf{ﾉ}$ $\color{#b76569}\textsf{@}$ $\color{#801e68}\textsf{ma}$ $\color{#822068}\textsf{ka}$ $\color{#750f68}\textsf{rov   ⠀𓈒 ⠀ ͡◝}$
 
-　　　　　https://vladzej.straw.page
+　　　　https://vladzej.straw.page
 　
