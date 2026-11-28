@@ -20,4 +20,7 @@
   $\color{#696738}\textsf{𝔩𝔦𝔣𝔢 𝔦𝔰 𝔶𝔬𝔲𝔯 𝔭𝔲𝔫𝔦𝔰𝔥𝔪𝔢𝔫𝔱.”}$
 </p>
 
+<p align="center">
+ $\color{#fdf5d1}\textsf{𝓋ladzej 𝒸eo}$
+</p>
 <br clear="left"/>
