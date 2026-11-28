@@ -19,7 +19,8 @@
 
 <a href="https://guns.lol/kvifed" title="guns">guns</a>
 <p align="center">
-$\color{#696738}\textsf{“𝔶𝔬𝔲𝔯 𝔢𝔵𝔦𝔰𝔱𝔢𝔫𝔠𝔢 𝔴𝔞𝔰 𝔞 𝔠𝔯𝔦𝔪𝔢.}$$\color{#696738}\textsf{life is your punishment.”}$
+$\color{#696738}\textsf{“𝔶𝔬𝔲𝔯 𝔢𝔵𝔦𝔰𝔱𝔢𝔫𝔠𝔢 𝔴𝔞𝔰 𝔞 𝔠𝔯𝔦𝔪𝔢.}$
+$\color{#696738}\textsf{𝔩𝔦𝔣𝔢 𝔦𝔰 𝔶𝔬𝔲𝔯 𝔭𝔲𝔫𝔦𝔰𝔥𝔪𝔢𝔫𝔱.”}$
 </p>
 </td> 
 </table>
