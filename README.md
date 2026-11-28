@@ -1,5 +1,6 @@
 <p align="center">
-<img width="400" height="225" alt="image-cf59-gradientmap pro-removebg-preview" src="https://github.com/user-attachments/assets/e4f116fa-d746-4e04-843c-40b918d1508c" />
+<img width="1500" height="500" alt="Untitled7_20261127232328" src="https://github.com/user-attachments/assets/276f4f7e-7956-4193-9c49-bbf698a294ef" />
+
 </p>
 
 <table>
