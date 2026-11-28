@@ -12,7 +12,8 @@
 </p>
 <p align="center">
   <a href="https://vladzej.straw.page" title="strawpage">strawpage</a> <a href="https://pronouns.cc/@kvifed" title="pronouns">pronouns</a> 
-  <a href="https://guns.lol/kvifed" title="guns">guns</a>
+  <p align="center">
+<a href="https://guns.lol/kvifed" title="guns">guns</a>
 </p>
 <p align="center">
   $\color{#696738}\textsf{“𝔶𝔬𝔲𝔯 𝔢𝔵𝔦𝔰𝔱𝔢𝔫𝔠𝔢 𝔴𝔞𝔰 𝔞 𝔠𝔯𝔦𝔪𝔢.}$
