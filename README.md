@@ -26,4 +26,5 @@ $\color{#fdf5d1}\textsf{𝓋ladzej 𝒸eo}$
 <p align="center">
 $\color{#73a496}\textsf{ ྀི ͡◞  . 𝒹ni 𝔪𝔞𝔨𝔞𝔯𝔬𝔳 𝓎umes, 𝓈hippers, 𝒾rls, 𝓀ins ‿ノ ˙}$
 </p>
+I HATE MAKAROV SHIPPERS I HATE MAKAROV SHIPPERS I HATE MAKAROV SHIPPERS I HATE MAKAROV SHIPPERS I HATE MAKAROV SHIPPERS I HATE MAKAROV SHIPPERS I HATE MAKAROV SHIPPERS I HATE MAKAROV SHIPPERS
 <br clear="left"/>
