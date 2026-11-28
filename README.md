@@ -21,6 +21,9 @@
 </p>
 
 <p align="center">
- $\color{#fdf5d1}\textsf{𝓋ladzej 𝒸eo}$
+$\color{#fdf5d1}\textsf{𝓋ladzej 𝒸eo}$
+</p>
+<p align="center">
+$\color{#6e6b3a}\textsf{𝒹ni 𝔪𝔞𝔨𝔞𝔯𝔬𝔳 𝓎umes, 𝓈hippers, 𝒾rls, 𝓀ins}$
 </p>
 <br clear="left"/>
