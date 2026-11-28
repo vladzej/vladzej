@@ -13,20 +13,13 @@
   $\color{#7aa19a}\textsf{ઇ   𝓂akarov¹    𓂅   𝓀vifed²  ᵎᵎ ⬚   .  𐑞}$
 </p>
 <p align="center">
-   ꒡ ͝‎　　𝒽e¹ 𝒾t² 𝒶ny³ 　 ͝‎ ꒡
+  $\color{#fdf5d1}\textsf{ ꒡ ͝‎　　𝒽e¹ 𝒾t² 𝒶ny³ 　 ͝‎ ꒡}$
 </p>
 <a href="https://vladzej.straw.page" title="strawpage">strawpage</a>       <a href="https://pronouns.cc/@kvifed" title="pronouns">pronouns</a>
 
 <a href="https://guns.lol/kvifed" title="guns">guns</a>
 <p align="center">
-“𝔶𝔬𝔲𝔯 𝔢𝔵𝔦𝔰𝔱𝔢𝔫𝔠𝔢 𝔴𝔞𝔰 𝔞 𝔠𝔯𝔦𝔪𝔢. 𝔩𝔦𝔣𝔢 𝔦𝔰 𝔶𝔬𝔲𝔯 𝔭𝔲𝔫𝔦𝔰𝔥𝔪𝔢𝔫𝔱.”
+$\color{#696738}\textsf{“𝔶𝔬𝔲𝔯 𝔢𝔵𝔦𝔰𝔱𝔢𝔫𝔠𝔢 𝔴𝔞𝔰 𝔞 𝔠𝔯𝔦𝔪𝔢. 𝔩𝔦𝔣𝔢 𝔦𝔰 𝔶𝔬𝔲𝔯 𝔭𝔲𝔫𝔦𝔰𝔥𝔪𝔢𝔫𝔱.”}$
 </p>
-
-</td>
-
-  
+</td> 
 </table>
-
-<p align="center">
-$\color{#b76569}\textsf{@}$ $\color{#801e68}\textsf{ma}$ $\color{#822068}\textsf{ka}$ $\color{#750f68}\textsf{rov   ⠀𓈒 ⠀ ͡◝}$
-$\color{#b76569}\textsf{i don't talk first, whisper to me.}$
