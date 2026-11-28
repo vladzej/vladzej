@@ -10,7 +10,7 @@
 
 <td
 <p align="center">
-  $\color{#7aa19a}\textsf{ઇ   𝓂akarov¹    𓂅   𝓀vifed²  ᵎᵎ ⬚   .  𐑞}$ ઇ   𝓂akarov¹    𓂅   𝓀vifed²  ᵎᵎ ⬚   .  𐑞
+  $\color{#7aa19a}\textsf{ઇ   𝓂akarov¹    𓂅   𝓀vifed²  ᵎᵎ ⬚   .  𐑞}$
 </p>
 <p align="center">
    ꒡ ͝‎　　𝒽e¹ 𝒾t² 𝒶ny³ 　 ͝‎ ꒡
