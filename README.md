@@ -11,8 +11,7 @@
   $\color{#fdf5d1}\textsf{ ꒡ ͝‎  𝒽e¹ 𝒾t² 𝒶ny³   ͝‎ ꒡}$
 </p>
 <p align="center">
-  <a href="https://vladzej.straw.page" title="strawpage">strawpage</a> •
-  <a href="https://pronouns.cc/@kvifed" title="pronouns">pronouns</a> •
+  <a href="https://vladzej.straw.page" title="strawpage">strawpage</a> <a href="https://pronouns.cc/@kvifed" title="pronouns">pronouns</a> 
   <a href="https://guns.lol/kvifed" title="guns">guns</a>
 </p>
 <p align="center">
